@@ -1,0 +1,14 @@
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/bin/Debug/net9.0/SPATextRPG
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/bin/Debug/net9.0/SPATextRPG.deps.json
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/bin/Debug/net9.0/SPATextRPG.runtimeconfig.json
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/bin/Debug/net9.0/SPATextRPG.dll
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/bin/Debug/net9.0/SPATextRPG.pdb
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/SPATextRPG.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/SPATextRPG.AssemblyInfoInputs.cache
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/SPATextRPG.AssemblyInfo.cs
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/SPATextRPG.csproj.CoreCompileInputs.cache
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/SPATextRPG.dll
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/refint/SPATextRPG.dll
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/SPATextRPG.pdb
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/SPATextRPG.genruntimeconfig.cache
+/Users/parkkwanwoo/Desktop/코딩/C#run/4week/SPATextRPG/obj/Debug/net9.0/ref/SPATextRPG.dll
